@@ -1,0 +1,78 @@
+{
+    "products": {
+      "just_booked": [
+        {
+          "id": 0,
+          "title": "Step behind",
+          "excerpt": "Step behind the scenes of Havana’s theater",
+          "description": "Step behind the scenes of Havana’s theater Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 7956
+        },
+        {
+          "id": 1,
+          "title": "Dance your",
+          "excerpt": "Dance your way into Cuban culture",
+          "description": "Dance your way into Cuban culture Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 7956
+        },
+        {
+          "id": 2,
+          "title": "Hunt for",
+          "excerpt": "Hunt for truffles in the countryside",
+          "description": "Hunt for truffles in the countryside Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 13361
+        },
+        {
+          "id": 3,
+          "title": "Meet Kenyan",
+          "excerpt": "Meet Kenyan innovators with a Nairobi",
+          "description": "Meet Kenyan innovators with a Nairobi Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 23204
+        },
+        {
+          "id": 4,
+          "title": "Explore Miami",
+          "excerpt": "Explore Miami’s Latin flavors with food",
+          "description": "Explore Miami’s Latin flavors with food Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 18232
+        }
+      ],
+      "featured": [
+        {
+          "id": 5,
+          "title": "Step in",
+          "excerpt": "Step in the scenes of Amsterdam’s theater",
+          "description": "Step in the scenes of Amsterdam’s theater Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 7956
+        },
+        {
+          "id": 6,
+          "title": "Dance fever",
+          "excerpt": "Dance fever your way into African culture",
+          "description": "Dance fever your way into African culture Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 7956
+        },
+        {
+          "id": 7,
+          "title": "Fly for",
+          "excerpt": "Fly for truffles in the countryside",
+          "description": "Fly for truffles in the countryside Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 161
+        },
+        {
+          "id": 8,
+          "title": "Meet France",
+          "excerpt": "Meet France innovators with a Nairobi",
+          "description": "Meet Kenyan innovators with a Nairobi Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 3204
+        },
+        {
+          "id": 9,
+          "title": "Explore Italy",
+          "excerpt": "Explore Italy’s Latin flavors with food",
+          "description": "Explore Miami’s Latin flavors with food Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam\n\nPellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.",
+          "price": 28232
+        }
+      ]
+    }
+  }

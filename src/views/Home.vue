@@ -1,18 +1,21 @@
 <template>
-  <div class="home">
-    <img alt="Vue logo" src="../assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+  <!-- PASSER PROPS POUR PASSER DONNEES + BOUCLE -->
+  <Products v-for="(product, index) in products" :key="index" :content="product"/>
 </template>
 
 <script>
-// @ is an alias to /src
-import HelloWorld from '@/components/HelloWorld.vue';
+import {
+  mapState,
+} from 'vuex';
+import Products from '../components/Products.vue';
 
 export default {
   name: 'Home',
   components: {
-    HelloWorld,
+    Products,
   },
+
+  computed: mapState(['products']),
 };
+
 </script>
